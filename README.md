@@ -1,4 +1,4 @@
 # splrand
 Spline-based univariate pseudo-random number generator
 
-https://travis-ci.org/elenagasparri/splrand.svg?branch=master
+[![Build Status](https://travis-ci.org/elenagasparri/splrand.svg?branch=master)](https://travis-ci.org/elenagasparri/splrand)
