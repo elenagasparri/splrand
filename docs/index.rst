@@ -6,6 +6,10 @@
 Welcome to splrand's documentation!
 ===================================
 
+Splrand is a package based on the Python scientific ecosystem.
+
+
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
